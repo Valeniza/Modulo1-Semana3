@@ -1,0 +1,16 @@
+Pregunta 7.
+
+Repositorio:
+ Es un sitio por el cual se almacena, configura, modifica y guarda
+toda la información de cualquier proyecto que se lleve a cabo ya sea
+mediante un repositorio local o remoto.
+
+Cuenta con unas funciones las cuales son:
+
+Almacena codigo, bases de datos, configuraciones, etc
+
+registra cambios 
+
+retrocede versiones
+
+permite el trabajo simultáneo 
