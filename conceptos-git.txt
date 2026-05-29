@@ -1,8 +1,9 @@
 Pregunta 7.
 
 Repositorio:
+
  Es un sitio por el cual se almacena, configura, modifica y guarda
-toda la información de cualquier proyecto que se lleve a cabo ya sea
+toda la información de cualquier proyecto que se lleve a cabo, ya sea
 mediante un repositorio local o remoto.
 
 Cuenta con unas funciones las cuales son:
@@ -14,3 +15,24 @@ registra cambios
 retrocede versiones
 
 permite el trabajo simultáneo 
+
+commit:
+
+Comando que nos registra, confirma y guarda de forma permanente los cambios
+realizados por código fuente en un repositorio local.
+
+Algunos aspectos importantes de un commit son:
+
+permite un seguimiento de los cambios 
+
+Facilita volver a una versión anterior por si se produce
+algún problema con el código.
+
+push:
+
+Es un comando el cual nos permite enviar los cambios que previamente 
+han sido guardados y verlo en el repositorio remoto.
+
+Antes de realizar un push, el repositorio remoto tiene que estar
+vinculado con el repositorio local.
+
